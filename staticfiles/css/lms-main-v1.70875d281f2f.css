@@ -4113,7 +4113,6 @@ header.global-new.rwd .nav-courseware div:last-child {
 }
 .home>header .title {
     float: left;
-    display: none;
     margin-right: 2.35765%;
     width: 65.88078%;
     margin-left: 17.05961%;
@@ -4128,6 +4127,7 @@ header.global-new.rwd .nav-courseware div:last-child {
 }
 .home>header .title:last-child {
     margin-right: 0
+    visibility:hidden;
 }
 .home>header .title:hover .actions, .home>header .title:focus .actions {
     display: none
