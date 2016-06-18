@@ -4096,7 +4096,7 @@ header.global-new.rwd .nav-courseware div:last-child {
     padding: 60px;
     max-width: 1200px;
     height: 500px;
-    background-image: url(../img/banner.png);
+    background-image: url(../images/banner.png);
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
@@ -4126,7 +4126,7 @@ header.global-new.rwd .nav-courseware div:last-child {
     vertical-align: top;
 }
 .home>header .title:last-child {
-    margin-right: 0
+    margin-right: 0;
     visibility:hidden;
 }
 .home>header .title:hover .actions, .home>header .title:focus .actions {
