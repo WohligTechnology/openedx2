@@ -4093,11 +4093,10 @@ header.global-new.rwd .nav-courseware div:last-child {
 .home>header .outer-wrapper {
     position: relative;
     margin: 0 auto;
-    padding: 60px;
-    max-width: 1200px;
+    width: 100%;
     height: 500px;
     background-image: url(../images/banner.png);
-    background-size: contain;
+    background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
 }
